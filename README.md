@@ -7,6 +7,8 @@ A simple calendar application that allows user to save events for each hour of t
 
 
 ## Application URL
+https://dianakoeswanto.github.io/work-day-scheduler/
+
 
 ## Screenshot of application
 
