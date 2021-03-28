@@ -8,3 +8,6 @@ A simple calendar application that allows user to save events for each hour of t
 
 ## Application URL
 
+## Screenshot of application
+
+![web-view](./assets/screenshots/work-day-schedule-screencapture.png)
